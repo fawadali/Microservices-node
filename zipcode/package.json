@@ -1,0 +1,24 @@
+{
+  "name": "microservices-node",
+  "version": "1.0.0",
+  "description": "node.js based microservices repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fawadali/Microservices-node.git"
+  },
+  "author": "Syed Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fawadali/Microservices-node/issues"
+  },
+  "homepage": "https://github.com/fawadali/Microservices-node#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
